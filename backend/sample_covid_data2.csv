@@ -1,0 +1,19 @@
+﻿Subsection,BusinessType,Quantity,AvgPop,OpCapacity,RelRisk
+Sports and Rec,Skating Rinks,54,350,0.3,0.2
+Sports and Rec,Gyms,250,500,0.3,0.8
+Sports and Rec,Fitness Studios,220,300,0.3,0.8
+Sports and Rec,Adventure Activities,40,150,0.3,0.4
+Sports and Rec,Playgrounds,47,100,0.3,0.6
+Sports and Rec,Swimming Pools,40,300,0.3,0.7
+Sports and Rec,Golf,60,50,0.3,0.3
+Sports and Rec,Baseball Diamonds,11,50,0.3,0.2
+Sports and Rec,Soccer Fields/Clubs,26,60,0.3,0.6
+Sports and Rec,Basketball Courts,50,80,0.3,0.7
+Sports and Rec,Skate Parks,6,50,0.3,0.3
+Sports and Rec,Motorsport Tracks,10,30,0.3,0.2
+Sports and Rec,Shooting Ranges,13,20,0.3,0.3
+Sports and Rec,Tennis Courts,60,10,0.3,0.1
+Self Care,Beauty Salons,230,100,0.3,0.6
+Self Care,Hair Salons,330,100,0.3,0.6
+School,Elementary,475,400,0.3,0.7
+School,Secondary,110,700,0.3,0.7

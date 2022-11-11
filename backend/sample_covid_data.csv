@@ -1,0 +1,104 @@
+id,Subsection,BusinessType,Quantity,AvgPop,OpCapacity,RelRisk,RelChange,SubsectionCount
+1,Sports and Rec,Skating Rinks,54,50,0.03,0.2,0.01,16
+2,Sports and Rec,Sports Complex,40,20,0.0,0.9,0.01,16
+3,Sports and Rec,Gyms,250,200,0.0,0.8,0.01,16
+4,Sports and Rec,Fitness Studios,220,200,0.0,0.8,0.01,16
+5,Sports and Rec,Adventure Activities,40,150,0.0,0.4,0.01,16
+6,Sports and Rec,Playgrounds,47,100,0.0,0.6,0.01,16
+7,Sports and Rec,Swimming Pools,40,150,0.0,0.7,0.01,16
+8,Sports and Rec,Golf,60,50,0.0,0.3,0.01,16
+9,Sports and Rec,Baseball Diamonds,11,50,0.0,0.2,0.01,16
+10,Sports and Rec,Soccer Fields/Clubs,26,60,0.0,0.6,0.01,16
+11,Sports and Rec,Basketball Courts,50,80,0.0,0.7,0.01,16
+12,Sports and Rec,Skate Parks,6,50,0.0,0.3,0.01,16
+13,Sports and Rec,Motorsport Tracks,10,30,0.0,0.2,0.01,16
+14,Sports and Rec,Marinas/Boat Clubs,70,5,0.0,0.2,0.01,16
+15,Sports and Rec,Shooting Ranges,13,20,0.0,0.3,0.01,16
+16,Sports and Rec,Tennis Courts,60,10,0.0,0.1,0.01,16
+17,School,Elementary,475,400,0.0,0.7,0.08,5
+18,School,Secondary,110,700,0.0,0.7,0.08,5
+19,School,Camps for Children,24,50,0.0,0.7,0.08,5
+20,School,Child Care Centers,1000,20,0.0,0.7,0.08,5
+21,School,Tutoring,215,25,0.0,0.7,0.08,5
+22,Social Gathering,House Party,15,30,0.0,0.8,0.31,7
+23,Social Gathering,Play dates,30,10,0.0,0.5,0.31,7
+24,Social Gathering,Guests visit,30,10,0.0,0.5,0.31,7
+25,Social Gathering,Weddings/Receptions,250,150,0.0,0.7,0.31,7
+26,Social Gathering,Funerals,52,25,0.0,0.7,0.31,7
+27,Social Gathering,Outdoor Parties,20,30,0.0,0.65,0.31,7
+28,Social Gathering,Convention Centers/Event spaces,50,25,0.0,0.8,0.31,7
+29,Religious Gathering,Places of Worship,700,10,0.0,0.8,0.21,1
+30,Shopping,Grocery and Big Box Stores,200,500,0.0,0.6,0.36,4
+31,Shopping,Indoor Shopping Malls/Centers,50,500,0.0,0.5,0.36,4
+32,Shopping,Outlet Malls,3,500,0.0,0.4,0.36,4
+33,Shopping,Outdoor Plazas ,30,500,0.0,0.4,0.36,4
+34,Restaurants,Takeout,450,30,1.0,0.1,0.43,6
+35,Restaurants,Bars/Pubs,350,50,1.0,0.9,0.43,6
+36,Restaurants,Buffet-Style Food Services,90,50,1.0,0.9,0.43,6
+37,Restaurants,Dine-In Restaurants,400,50,0.0,0.75,0.43,6
+38,Restaurants,Cafes,300,100,0.0,0.75,0.43,6
+39,Restaurants,Patio Restaurants,200,50,0.0,0.4,0.43,6
+40,Entertainment,Amusement Parks,5,250,0.0,0.8,0.23,15
+41,Entertainment,Tours and Guide Services,38,20,0.0,0.4,0.23,15
+42,Entertainment,Water Parks,7,150,0.0,0.65,0.23,15
+43,Entertainment,Movie Theatres,49,200,0.0,0.7,0.23,15
+44,Entertainment,Fairs/Festivals,2,20,0.0,0.8,0.23,15
+45,Entertainment,Concerts/Live Shows,35,10,0.0,0.9,0.23,15
+46,Entertainment,Gaming Establishments / Arcades,60,30,0.0,0.7,0.23,15
+47,Entertainment,Escape Rooms,30,40,0.0,0.7,0.23,15
+48,Entertainment,Casinos,4,150,0.0,0.6,0.23,15
+49,Entertainment,Bingo halls,10,20,0.0,0.7,0.23,15
+50,Entertainment,Clubs,60,100,0.0,1.0,0.23,15
+51,Entertainment,Film/TV Production,9,35,0.0,0.4,0.23,15
+52,Entertainment,Drive-In/Drive-Thru venues,7,100,0.0,0.2,0.23,15
+53,Entertainment,Karaoke Bars,30,30,0.0,0.9,0.23,15
+54,University/College,Campus,19,5000,0.03,0.4,0.08,2
+55,University/College,Residences,21,500,0.0,0.6,0.08,2
+56,Health Care,Counselling Services,240,10,0.0,0.4,0.1,5
+57,Health Care,Walk-in clinics,120,60,0.0,0.4,0.1,5
+58,Health Care,Pharmacy,350,50,0.0,0.4,0.1,5
+59,Health Care,Hospitals,35,300,0.0,0.4,0.1,5
+60,Health Care,Specialized doctors,1000,5,0.0,0.4,0.1,5
+61,Self Care,Saunas/Steam Rooms,20,10,0.0,0.8,0.1,11
+62,Self Care,Beauty Salons,230,30,0.0,0.6,0.1,11
+63,Self Care,Hair Salons,330,30,0.0,0.6,0.1,11
+64,Self Care,Nail Salons,300,30,0.0,0.6,0.1,11
+65,Self Care,Non-Medical Diet Centers,35,10,0.0,0.4,0.1,11
+66,Self Care,Piercing Services,60,10,0.0,0.4,0.1,11
+67,Self Care,Tattoo Services,150,10,0.0,0.4,0.1,11
+68,Self Care,Tanning Salons,70,10,0.0,0.5,0.1,11
+69,Self Care,Oxygen Bars,6,5,0.0,0.2,0.1,11
+70,Self Care,Floating Pools,10,5,0.0,0.2,0.1,11
+71,Self Care,Sensory Deprevation Centers,4,5,0.0,0.2,0.1,11
+72,Economic,Real-Estate Open Houses,450,1,0.0,0.3,0.1,5
+73,Economic,Brokerages,150,10,0.07,0.4,0.1,5
+74,Economic,Vehicle Dealerships,200,5,0.0,0.5,0.1,5
+75,Economic,Banks,286,25,0.0,0.4,0.1,5
+76,Economic,Government services,15,30,0.0,0.4,0.1,5
+77,Personal Services,House-sitting/Pet-sitting,35,1,0.0,0.1,0.1,8
+78,Personal Services,Event planning services,300,3,0.0,0.4,0.1,8
+79,Personal Services,Personal Fitness Trainer,250,5,0.0,0.8,0.1,8
+80,Personal Services,Shoe Services,150,10,0.0,0.3,0.1,8
+81,Personal Services,Security Services,230,5,0.0,0.8,0.1,8
+82,Personal Services,Check Room Services,5,5,0.0,0.8,0.1,8
+83,Personal Services,Photography Services,450,5,0.0,0.4,0.1,8
+84,Personal Services,Domestic/Housekeeping Services,250,5,0.0,0.5,0.1,8
+85,Nature,National/Provincial/Municipal Parks,15,50,0.0,0.2,0.1,5
+86,Nature,Camp Grounds,5,20,0.0,0.3,0.1,5
+87,Nature,Beaches,10,70,0.0,0.5,0.1,5
+88,Nature,"Ponds, Lakes",12,30,0.0,0.1,0.1,5
+89,Nature,Hiking Trails,7,50,0.0,0.25,0.1,5
+90,Community Services,Libraries,102,20,0.0,0.3,0.1,4
+91,Community Services,Retirement Homes,37,250,0.0,1.0,0.1,4
+92,Community Services,Community Centers,166,50,0.0,0.7,0.1,4
+93,Community Services,Construction,300,15,0.0,0.2,0.1,4
+94,Attractions and Heritage,Museums/Galleries,67,10,0.0,0.35,0.1,7
+95,Attractions and Heritage,Aquariums,1,50,0.0,0.35,0.1,7
+96,Attractions and Heritage,Hotels,140,200,0.0,0.4,0.1,7
+97,Attractions and Heritage,Zoos,3,60,0.0,0.2,0.1,7
+98,Attractions and Heritage,Historical Sites,56,25,0.0,0.35,0.1,7
+99,Attractions and Heritage,Gardens,13,50,0.0,0.2,0.1,7
+100,Attractions and Heritage,Famous landmarks,190,25,0.0,0.35,0.1,7
+101,Animal Services,Veterinary Services,27,20,0.0,0.4,0.1,3
+102,Animal Services,Pet Grooming Services,239,10,0.0,0.4,0.1,3
+103,Animal Services,Pet Training Services,31,10,0.0,0.4,0.1,3

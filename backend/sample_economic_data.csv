@@ -1,0 +1,17 @@
+id,Sector,NumBusinesses,NumEmployees,JobsChangeFactor,GDPImpactFactor,BusinessesClosedFactor,RestrictionsIntensity
+1,Agriculture,4242,260.7,-1.7,-3.4,0.125,1.0
+2,Natural resources,10288,329.0,1.6,3.2,0.0,1.0
+3,Utilities,677,143.4,-0.3,-0.6,0.125,1.0
+4,Construction,109595,1455.4,-0.9,-1.8,0.125,1.0
+5,Manufacturing,46586,1755.5,0.0,0.0,0.0,1.0
+6,Wholesale and retail trade,113838,2755.1,-3.1,-6.2,0.25,1.0
+7,Transportation and warehousing,48703,968.4,-0.6,-1.2,0.2,1.0
+8,"Finance, insurance, real estate, rental and leasing",60732,1293.8,1.1,2.2,0.0,1.0
+9,"Professional, scientific and technical services",110870,1644.6,0.9,1.8,0.0,1.0
+10,"Business, building and other support services",35821,699.0,-1.1,-2.2,0.2,1.0
+11,Educational services,8798,1432.8,-2.4,-4.8,0.2,1.0
+12,Health care and social assistance,96441,2543.4,-0.3,-0.6,0.2,1.0
+13,"Information, culture and recreation",22440,691.8,-3.6,-7.2,0.25,0.998125
+14,Accommodation and food services,55537,864.5,-6.4,-12.8,0.25,0.5
+15,Other services (except public administration),65064,746.5,-1.2,-2.4,0.2,1.0
+16,Public administration,7779,1043.2,1.5,3.0,0.0,1.0
