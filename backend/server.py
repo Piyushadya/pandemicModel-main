@@ -5,7 +5,6 @@ import numpy as np
 import pymysql
 from sklearn.preprocessing import PolynomialFeatures
 import pickle
-
 from sqlalchemy import create_engine
 
 # COVID-19 infectious period is ~10 days, so an infected person will infect 1.5 others in their 10-day period
