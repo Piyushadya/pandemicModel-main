@@ -47,6 +47,7 @@ And you should see the application running on http://localhost:3000/. You only n
 Open another terminal tab. Navigate to the `backend` directory in your terminal. 
 
 Follow the instructions here for starting up the application: https://flask.palletsprojects.com/en/2.0.x/quickstart/. If you didn't read it, below is the command for using a powershell terminal. If using other terminals, check the website for your specific commands. 
+
 For Windows:
 ````
 set FLASK_ENV=development 
