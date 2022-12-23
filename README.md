@@ -32,7 +32,34 @@ pip install sqlalchemy
 ````
 
 
-## 2. Run the code
+
+# 2. Please make sure to have MySQL Workbench installed : https://dev.mysql.com/downloads/workbench/
+
+Also, after successfully installing the Workbench, to create the instance, please provide below credentials:
+
+ Username :
+  ```` 
+  root
+   ```` 
+ Password :
+  ```` 
+  root1234
+  ````
+  
+Please note: Please provide above credentials while creating instance of Database as our executable contains the same credentials 
+
+After successfully creating instance, Please create database with Name = "CovidProject".
+Then follow below steps:
+  1. click on "Server".
+  2. Click on "Data import"
+  3. Select Import from Self-Contained File radio button (right side of screen)
+  5.Open Database folder.
+  4. Select the path of CovidDataset.sql from our project's database folder
+  5. select the database ("CovidProject") from "Default Target Schema:" dropdown
+  6. Click Start Import button at the right bottom corner of window
+
+
+## 3. Run the code
 
 ### Front end - React app
 Navigate to the cloned repository, and cd into the `client` directory. Then run:
