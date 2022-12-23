@@ -25,22 +25,10 @@ pip install Flask
 pip install Flask-Cors
 pip install pandas
 pip install numpy
-pip3 install pymysql
-pip3 install sqlalchemy
-````
-
-### Clone this repository
-Inside your terminal:
+pip install pymysql
+pip install mysql-connector-python
+pip install sqlalchemy
 ```
-git clone https://github.com/daniellou2000/pandemicModel.git
-````
-
-If you don't have git installed: 
-- Download from: https://git-scm.com/downloads
-
-To check that git is installed, you should see a version when you run:
-```
-git --version
 ````
 
 
@@ -58,7 +46,15 @@ Open another terminal tab. Navigate to the `backend` directory in your terminal.
 
 Follow the instructions here for starting up the application: https://flask.palletsprojects.com/en/2.0.x/quickstart/. If you didn't read it, below is the command for using a powershell terminal. If using other terminals, check the website for your specific commands. 
 ```
-$env:FLASK_APP = "server"
-python -m flask run
+For Windows:
 
+set FLASK_ENV=development 
+set FLASK_APP=server 
+flask run
+
+For MAC:
+
+export FLASK_ENV=development 
+export FLASK_APP=server 
+flask run
 Now both the front end and back end should be running, and you can access the app at http://localhost:3000/. 
