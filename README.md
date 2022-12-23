@@ -48,14 +48,14 @@ Also, after successfully installing the Workbench, to create the instance, pleas
   
 Please note: Please provide above credentials while creating instance of Database as our executable contains the same credentials 
 
-After successfully creating instance, Please create database with Name = "Covid".
+After successfully creating instance, Please create database with Name = "CovidProject".
 Then follow below steps:
   1. click on "Server".
   2. Click on "Data import"
   3. Select Import from Self-Contained File radio button (right side of screen)
   4. Open backend folder
   5.  Select the path of CovidDataset.sql from our project's backend folder
-  6.  select the database ("Covid") from "Default Target Schema:" dropdown
+  6.  select the database ("CovidProject") from "Default Target Schema:" dropdown
   7.  Click Start Import button at the right bottom corner of window
 
 
