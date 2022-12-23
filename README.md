@@ -53,10 +53,10 @@ Then follow below steps:
   1. click on "Server".
   2. Click on "Data import"
   3. Select Import from Self-Contained File radio button (right side of screen)
-  5.Open backend folder
-  6. Select the path of CovidDataset.sql from our project's backend folder
-  7. select the database ("CovidProject") from "Default Target Schema:" dropdown
-  8. Click Start Import button at the right bottom corner of window
+  4. Open backend folder
+  5.  Select the path of CovidDataset.sql from our project's backend folder
+  6.  select the database ("CovidProject") from "Default Target Schema:" dropdown
+  7.  Click Start Import button at the right bottom corner of window
 
 
 ## 3. Run the code
