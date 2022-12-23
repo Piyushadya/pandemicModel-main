@@ -12,6 +12,7 @@ import pickle
 ECONOMIC_CSV_FILE_NAME = "Final.csv"
 GDP_CSV_FILE_NAME = "GDP.csv"
 FINALIZED_MODEL = 'finalized_model.sav'
+# Enter your database credentials according to your system.
 hostname="localhost"
 dbname="CovidProject"
 uname="root"
