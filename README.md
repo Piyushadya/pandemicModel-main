@@ -64,8 +64,8 @@ Then follow below steps:
 ### Front end - React app
 Navigate to the cloned repository, and cd into the `client` directory. Then run:
 ````
-- npm install
-- npm start
+npm install
+npm start
 ````
 
 And you should see the application running on http://localhost:3000/. You only need to run `npm install` the first time you download the repository, or anytime there are new changees. 
