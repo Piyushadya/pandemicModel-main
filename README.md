@@ -88,3 +88,10 @@ export FLASK_APP=server
 flask run
 ````
 Now both the front end and back end should be running, and you can access the app at http://localhost:3000/. 
+
+## Screenshots:
+
+<img width="497" alt="image" src="https://user-images.githubusercontent.com/108247171/224451650-82b66ab4-e7bb-4367-9b77-6fb5b70651b1.png">
+
+<img width="502" alt="image" src="https://user-images.githubusercontent.com/108247171/224451690-5420a53c-1c81-4898-8fa6-15329f9b61ce.png">
+
